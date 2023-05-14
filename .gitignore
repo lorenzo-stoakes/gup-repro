@@ -1,0 +1,10 @@
+*.o
+*.cmd
+*.symvers
+*.order
+*.mod
+*.mod.c
+*.ko
+*.dwo
+
+gup-repro
